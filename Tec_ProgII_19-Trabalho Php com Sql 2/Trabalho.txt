@@ -1,0 +1,3 @@
+Crie um banco de dados para armazenar informações sobre clientes (nome, cpf e cidade) e também crie a tabela cidades. Cadastre as cidades da redondeza do IFFar nessa tabela (para isso você pode criar um formulário de cadastro de cidades).
+Agora, crie um formulário de cadastro de clientes, onde o mesmo apresenta um campo select com todas as cidades cadastradas para que ele selecione sua cidade para realizar seu cadastro.
+Permita que o sistema mostre os usuários cadastrados (consultar usuários).
